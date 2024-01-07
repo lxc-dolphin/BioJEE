@@ -1,1 +1,10 @@
-
+regex
+bs4
+loguru
+pyyaml
+texttable
+sklearn
+pytorch-nlp
+tqdm
+cchardet
+gdown
