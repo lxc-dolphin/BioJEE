@@ -18,3 +18,13 @@
 1. GENIA 2011 [(ge11)](http://2011.bionlp-st.org/home/genia-event-extraction-genia)
 2. PHAEDRA [(pharmacovigilance)](https://www.nactem.ac.uk/PHAEDRA/)
 
+## Requirements
+- Python 3.8
+- Pytorch (torch==1.1.0 torchvision==0.3.0, cuda92)
+- Install packages
+
+```bash
+sh install_EE.sh
+```
+
+
