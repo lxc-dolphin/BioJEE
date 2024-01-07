@@ -7,7 +7,7 @@
 - Leveraging encoded knowledge bases from entity linking model [(Joint4E-EL)](https://github.com/lxc-dolphin/BioJEL).
 - Integrating external knowledge information by applying element-wise addition to the representation of each entity.
   
-p align="center">
+<p align="center">
     <br>
     <img src="https://github.com/lxc-dolphin/BioJEE/tree/main/sup/fig_git_EE.png" width="900"/>
     <br>
