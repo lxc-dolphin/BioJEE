@@ -9,6 +9,6 @@
   
 <p align="center">
     <br>
-    <img src="https://github.com/lxc-dolphin/BioJEE/tree/main/sup/fig_git_EE.png" width="900"/>
+    <img src="https://github.com/lxc-dolphin/BioJEE/blob/main/sup/fig_git_EE.png" width="900"/>
     <br>
 <p>
