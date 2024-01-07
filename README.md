@@ -30,7 +30,7 @@ sh install_EE.sh
 ## Training, Evaluation and Prediction
 If using GPU: [-gpu] = 0 and [-cuda] = "True", otherwise: [-gpu] = -1
 
--training
+- training
 1. training without external knowledge or training the baseline
 ```bash
 python main_run_4jee.py -do_train True -add_candi False -gpu 0 -cuda True
@@ -41,12 +41,12 @@ python main_run_4jee.py -do_train True -add_candi True -gpu 0 -cuda True -use_SO
 ```
 
 
--evaluation
+- evaluation
 ```bash
 python main_run_4jee.py -do_eval True -add_candi False -gpu 0 -cuda True -use_SOTA_model True
 ```
 
--prediction
+- prediction
 1. predict a single sentence or text file
 ```bash
 python main_run_4jee.py -do_test_sihgle True -use_SOTA_model True
