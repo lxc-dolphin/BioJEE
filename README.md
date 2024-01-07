@@ -1,4 +1,4 @@
-# BIomedical Event Extraction (EE) Model For [Joint event extraction and entity linking model](https://arxiv.org/abs/2305.14645)
+# Biomedical Event Extraction (Joint4E-EE) Model For [Joint event extraction and entity linking model](https://arxiv.org/abs/2305.14645)
 - A deep leanring framework with BERT and multi-perceptrons to predict named entities, triggers, and events from biomedical texts. The EE model results are reported in our [paper](https://arxiv.org/abs/2305.14645)
 
 ## Model Structures
@@ -12,3 +12,9 @@
     <img src="https://github.com/lxc-dolphin/BioJEE/blob/main/sup/fig_git_EE.png" width="900"/>
     <br>
 <p>
+
+## Tasks
+- Joint4E-EE model has been trained and evaluated on the following tasks.
+1. GENIA 2011 [(ge11)](http://2011.bionlp-st.org/home/genia-event-extraction-genia)
+2. PHAEDRA [(pharmacovigilance)](https://www.nactem.ac.uk/PHAEDRA/)
+
